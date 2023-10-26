@@ -1,4 +1,4 @@
-[Восстановление золота из руды](2.gold_industry_analysis/gold_industry_analysis.ipynb)
+[Восстановление золота из руды](gold_industry_analysis.ipynb)
 
 Постановка задачи
 

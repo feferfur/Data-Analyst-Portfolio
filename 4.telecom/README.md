@@ -10,7 +10,7 @@
 
 Навыки и инструменты
 
-Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, LightGBM, phik Предобработка данных, исследовательский анализ данных, визуализация данных
+Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, LightGBM, Phik Предобработка данных, исследовательский анализ данных, визуализация данных
 
 Общий вывод
 

@@ -1,4 +1,4 @@
-# [Выбор локации для скважины](ML_for_business.ipynb)
+# [Выбор локации для скважины](oil_region_selection.ipynb)
 
 # Краткое описание
 

@@ -1,4 +1,4 @@
-# [Знакомство с базой данных](basic_sql.ipynb)
+# [Знакомство с базой данных](venture_capital_analysis.ipynb)
 
 # Краткое описание
 

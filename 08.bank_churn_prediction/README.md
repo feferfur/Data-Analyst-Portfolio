@@ -1,4 +1,4 @@
-# [Отток клиентов банка](supervised_learning.ipynb)
+# [Отток клиентов банка](bank_churn_prediction.ipynb)
 
 # Краткое описание
 

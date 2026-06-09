@@ -1,4 +1,4 @@
-# [Исследование надежности заемщиков](02.data_preprocessing.ipynb)
+# [Исследование надежности заемщиков](borrower_reliability_analysis.ipynb)
 
 # Краткое описание
 

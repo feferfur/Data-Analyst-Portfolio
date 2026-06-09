@@ -1,4 +1,4 @@
-# [Восстановление золота из руды](capstone_project_2.ipynb)
+# [Восстановление золота из руды](gold_recovery_optimization.ipynb)
 
 # Краткое описание
 

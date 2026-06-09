@@ -1,4 +1,4 @@
-# [Определение стоимости автомобилей](numerical_methods.ipynb)
+# [Определение стоимости автомобилей](used_car_price_prediction.ipynb)
 
 # Краткое описание
 

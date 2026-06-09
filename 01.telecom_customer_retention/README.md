@@ -1,4 +1,4 @@
-# [Отток клиентов телеком-компании](final_project.ipynb)
+# [Отток клиентов телеком-компании](telecom_customer_retention.ipynb)
 
 # Краткое описание
 

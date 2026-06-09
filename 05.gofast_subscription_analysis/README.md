@@ -1,4 +1,4 @@
-# [Аналитика поездок GoFast](SDA.ipynb)
+# [Аналитика поездок GoFast](gofast_subscription_analysis.ipynb)
 
 # Краткое описание
 
